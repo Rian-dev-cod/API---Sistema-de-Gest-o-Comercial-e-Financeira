@@ -1,7 +1,7 @@
 
-#  API - Sistema de Gestão Comercial e Financeira
+#  API - Sistema de Gestão Comercial
 
-Este projeto é uma API REST desenvolvida com **Spring Boot 3.5.0** e **Java 17**, voltada para a gestão comercial e financeira de empresas de serviços, como impermeabilização. A API realiza o gerenciamento de clientes, orçamentos, produtos, serviços, categorias, consumo de materiais e controle de produtividade.
+Este projeto é uma API REST desenvolvida com **Spring Boot 3.5.0** e **Java 17**, voltada para a gestão comercial de empresas de serviços, como impermeabilização. A API realiza o gerenciamento de clientes, orçamentos, produtos, serviços, categorias, consumo de materiais e controle de produtividade.
 
 ---
 
